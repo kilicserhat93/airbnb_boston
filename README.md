@@ -2,6 +2,9 @@
 Works on Airbnb Boston Home Data
 
 NOTE: I am having problem with publishing the post about this project from my Medium account. I will publish it whenever I solve.
+This writes at my profile page:
+"Serhat Kilic hasn’t been active on Medium yet. Check back later to see their stories, claps, and highlights."
+
 
 1-Motivation For The Project:
 
