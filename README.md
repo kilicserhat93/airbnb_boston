@@ -1,6 +1,8 @@
 # airbnb_boston
 Works on Airbnb Boston Home Data
 
+NOTE: I am having problem with publishing the post about this project from my Medium account. I will publish it whenever I solve.
+
 1-Motivation For The Project:
 
 I prepared this project for my online course homework.
