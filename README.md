@@ -1,6 +1,10 @@
 # airbnb_boston
 Works on Airbnb Boston Home Data
 
+The Medium link of the blog post about this project is here:
+https://medium.com/@kilicserhat8/data-scientist-blog-post-4ea2a098c3f2
+
+
 1-Motivation For The Project:
 
 I prepared this project for my online course homework.
